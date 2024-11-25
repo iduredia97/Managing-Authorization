@@ -1,4 +1,4 @@
-# Managing-Authorization
+# Managing Authorization
 ## Objective
 Review and edit user, group and other permissions on project files using Linux commands in a Bash shell.
 ## Necessary Permission Changes
